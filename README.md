@@ -1,26 +1,59 @@
 <h1 align="center">Hi 👋, I'm Shailendra Pathak</h1>
 <h3 align="center">A Passionate Developer and Problem Solver from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pathakshailendra&label=Profile%20views&color=0e75b6&style=flat" alt="pathakshailendra" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=pathakshailendra&label=Profile%20views&color=0e75b6&style=flat" alt="pathakshailendra" /> 
+</p>
 
-- 🔭 I’m currently working on **DSA and Full Stack Development**
+---
 
-- 🌱 I’m currently learning **Backend Development with Express**
+### 🔭 About Me  
+- 🔭 I’m currently working on **DSA and Full Stack Development**  
+- 🌱 I’m currently learning **Backend Development with Express**  
+- 👨‍💻 All of my projects are available on [My GitHub Profile](https://github.com/PathakShailendra)  
+- 📝 I regularly share my journey on [LinkedIn](https://www.linkedin.com/in/pathakshailendra)  
+- 💬 Ask me about **React JS, Tailwind CSS, Express, and DSA**  
+- 📫 How to reach me **pathakshailendra@example.com**  
+- ⚡ Fun fact **I believe in continuous learning and sharing knowledge.**  
 
-- 👨‍💻 All of my projects are available at [My GitHub Profile](https://github.com/PathakShailendra)
+---
 
-- 📝 I regularly share my journey on [LinkedIn](https://www.linkedin.com/in/pathakshailendra)
+### 🛠️ Skills  
 
-- 💬 Ask me about **React JS, Tailwind CSS, Express, and DSA**
+#### Programming Languages  
+- Java, C++, JavaScript  
 
-- 📫 How to reach me **pathakshailendra@example.com**
+#### Frontend  
+- HTML, CSS, React.js  
 
-- ⚡ Fun fact **I believe in continuous learning and sharing knowledge.**
+#### Backend  
+- Node.js, Express.js  
+
+#### Tools  
+- Git, GitHub, VS Code  
+
+#### Other  
+- DSA (Graphs, Trees, Dynamic Programming)  
+- UI/UX Design  
+
+---
+
+### 🏆 Achievements  
+
+- Solved **300+ LeetCode problems**.  
+- Earned the **200-Day Consistency Badge** for coding.  
+- Participated in the **ReImagine: A Web Development-Based National Level Hackathon** and reached the **3rd round**.  
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pathakshailendra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://github.com/PathakShailendra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="github" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/pathakshailendra" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://github.com/PathakShailendra" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="github" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
