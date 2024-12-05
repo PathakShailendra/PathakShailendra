@@ -14,25 +14,13 @@
 
 ---
 
-### 🛠️ Skills  
+## 🛠 Skills
+- **Programming Languages**: Java, C++, JavaScript
+- **Frontend**: HTML, CSS, React.js
+- **Backend**: Node.js, Express.js
+- **Tools**: Git, GitHub, VS Code
+- **Other**: DSA (Graphs, Trees, Dynamic Programming), UI/UX Design
 
-#### Programming Languages  
-- Java, C++, JavaScript  
-
-#### Frontend  
-- HTML, CSS, React.js  
-
-#### Backend  
-- Node.js, Express.js  
-
-#### Tools  
-- Git, GitHub, VS Code  
-
-#### Other  
-- DSA (Graphs, Trees, Dynamic Programming)  
-- UI/UX Design  
-
----
 
 ### 🏆 Achievements  
 
