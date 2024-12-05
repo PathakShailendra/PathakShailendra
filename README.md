@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shailendra Pathak</h1>
 <h3 align="center">A Passionate Developer and Problem Solver from India</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=pathakshailendra&label=Profile%20views&color=0e75b6&style=flat" alt="pathakshailendra" /> 
-</p>
-
 ---
 
 ### 🔭 About Me  
@@ -86,3 +82,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pathakshailendra&show_icons=true&locale=en&layout=compact" alt="pathakshailendra" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pathakshailendra&show_icons=true&locale=en" alt="pathakshailendra" /></p>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=pathakshailendra&label=Profile%20views&color=0e75b6&style=flat" alt="pathakshailendra" /> 
+</p>
