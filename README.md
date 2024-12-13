@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **DSA and Full Stack Development**  
 - 🌱 I’m currently learning **Backend Development with Express**  
 - 👨‍💻 All of my projects are available on [My GitHub Profile](https://github.com/PathakShailendra)  
-- 📝 I regularly share my journey on [LinkedIn](https://www.linkedin.com/in/pathakshailendra)  
+- 📝 I regularly share my journey on [LinkedIn](https://www.linkedin.com/in/shailendra-pathak-51a194258/)  
 - 💬 Ask me about **React JS, Tailwind CSS, Express, and DSA**  
 - 📫 How to reach me **pathakshailendra@example.com**  
 - ⚡ Fun fact **I believe in continuous learning and sharing knowledge.**  
@@ -32,7 +32,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/pathakshailendra" target="blank">
+  <a href="https://www.linkedin.com/in/shailendra-pathak-51a194258/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="https://github.com/PathakShailendra" target="blank">
