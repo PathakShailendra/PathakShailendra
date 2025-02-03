@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available on [My GitHub Profile](https://github.com/PathakShailendra)  
 - 📝 I regularly share my journey on [LinkedIn](https://www.linkedin.com/in/shailendra-pathak-51a194258/)  
 - 💬 Ask me about **React JS, Tailwind CSS, Express, and DSA**  
-- 📫 How to reach me **pathakshailendra@example.com**  
+- 📫 How to reach me **pathakharsh813@gmail.com**  
 - ⚡ Fun fact **I believe in continuous learning and sharing knowledge.**  
 
 ---
