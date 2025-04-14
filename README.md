@@ -24,7 +24,7 @@
 
 ### 🏆 Achievements  
 
-- Solved **300+ LeetCode problems**.  
+- Solved **500+ LeetCode problems**.  
 - Earned the **200-Day Consistency Badge** for coding.  
 - Participated in the **ReImagine: A Web Development-Based National Level Hackathon** and reached the **3rd round**.  
 
