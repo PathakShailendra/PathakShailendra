@@ -1,104 +1,107 @@
-<h1 align="center">Hi 👋, I'm Shailendra Pathak</h1>
-<h3 align="center">Full Stack Developer | DSA Enthusiast | MERN Stack Specialist</h3>
+<h1 align="center">🚀 Hi there, I'm Shailendra Pathak! 👋</h1>
+<h3 align="center">Full Stack Developer | MERN Wizard | DSA Enthusiast 💻</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pathakshailendra&label=Profile%20views&color=0e75b6&style=flat" alt="pathakshailendra" />
+  <img src="https://komarev.com/ghpvc/?username=PathakShailendra&label=Profile%20views&color=brightgreen&style=flat" alt="pathakshailendra" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 💡 About Me
 
-- 🎯 Passionate about solving real-world problems using **Full Stack Development and DSA**  
-- 💻 Currently focused on **Backend Development with Express.js**  
-- 🧠 Active Competitive Programmer: **600+ DSA problems solved** on LeetCode, **100+** on GFG  
-- ✍️ Sharing my learnings regularly on [LinkedIn](https://www.linkedin.com/in/shailendra-pathak-51a194258/)  
-- 🌐 All my projects are available on [GitHub](https://github.com/PathakShailendra)  
-- 📬 Reach me at **pathakharsh813@gmail.com**  
-- ⚡ Fun Fact: **I believe in learning, building, and helping others grow!**
-
----
-
-## 🛠 Skills & Tools
-
-### Programming Languages
-`Java` `JavaScript` `C++` `C`
-
-### Frontend
-`React.js` `Redux Toolkit` `Tailwind CSS` `HTML5` `CSS3` `GSAP` `Locomotive.js`
-
-### Backend
-`Node.js` `Express.js` `MongoDB` `JWT` `Socket.IO` `WebRTC` `Multer`
-
-### Tools & Technologies
-`VS Code` `Postman` `Git` `GitHub` `Figma` `Cursor` `IntelliJ IDEA` `Canva`
-
-### UI/UX & Cloud
-`Figma` `Photoshop` `Cloudinary` `Google Auth` `AWS` `GCP`
+- 🔧 Full Stack Developer specializing in **MERN Stack**
+- 📚 600+ DSA problems solved on LeetCode | 100+ on GeeksforGeeks
+- 🌐 Focused on **Backend with Node.js & Express**
+- 🛠️ Constantly building & shipping real-world projects
+- ✨ Finalist of **Reimagine Hackathon** by Sheryians Coding School
+- 📬 Reach me at: `pathakharsh813@gmail.com`
 
 ---
 
-## 📚 Education
+## 🛠️ Tech Stack & Tools
 
-**Lakshmi Narain College of Technology and Science, Bhopal**  
-*B.Tech. in Computer Science and Engineering (2022 - 2026)*  
-**CGPA:** 8.39
+### 👨‍💻 Languages & Runtime
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 
-**St. Mary’s Convent Sr. Secondary School, Bankhedi**  
-*Class XII (MP Board)* - 91%  
-*Class X (MP Board)* - 95%
+### 🧩 Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23764ABC.svg?style=flat&logo=redux)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=flat&logo=tailwind-css)
+
+### 🚀 Backend & DB
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+
+### 🛠 Tools & Platforms
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+
+---
+
+## 🎓 Education
+
+**🏫 Lakshmi Narain College of Technology and Science, Bhopal**  
+*B.Tech in CSE (2022–2026)* | CGPA: **8.39**
+
+**🏫 St. Mary’s Convent Sr. Secondary School, Bankhedi**  
+Class XII – **91%** | Class X – **95%**
 
 ---
 
 ## 🏆 Achievements
 
-- 📚 Solved **600+ DSA problems** on LeetCode and **100+** on GeeksforGeeks
-- 🏅 Earned **200-Day LeetCode Consistency Badge**
-- ✨ **Finalist in ReImagine Front-End Hackathon (2024)** by Sheryians Coding School
-- 🏆 Participated in **Smart India Hackathon (2023 & 2024)**
-- 🎨 Certified in **Full Stack Development with animations (GSAP, Locomotive.js)**
+- 🥇 600+ problems solved on LeetCode | 100+ on GeeksforGeeks  
+- 🔥 200-Day LeetCode Streak Badge  
+- 🧠 Hackathon Finalist at Reimagine 2024  
+- 💡 Participated in **Smart India Hackathon** twice  
+- 🛠️ Built **15+ Projects** including full-stack apps, UIs & APIs  
 
 ---
 
-## 📋 Projects
+## 📦 Featured Projects
 
-### GoBite Delivery System [Live]
-**Tech Stack:** React, Redux Toolkit, Tailwind, Node.js, MongoDB, Stripe API  
-A scalable grocery delivery platform with user-seller authentication, cart system, checkout, and Razorpay integration.
-
-### SmartAttend Platform [Live]
-**Tech Stack:** MERN Stack, HTML5 Geolocation API  
-Live-location based attendance system with Emp ID verification and admin dashboard for analytics.
-
-### ChatConnect Application [Live]
-**Tech Stack:** Node.js, Express, WebRTC, Socket.IO, EJS, Tailwind CSS  
-Real-time chat and video calling app with WebSocket integration and peer-to-peer communication.
+### 🛒 GoBite – Grocery Delivery System  
+**Tech Stack:** React, Redux Toolkit, Tailwind, Node.js, MongoDB  
+🌐 [Live Demo](https://gobite-frontend.onrender.com/)  
+💬 Scalable grocery delivery app with authentication, payment, seller dashboard & cart system
 
 ---
 
-## 📞 Connect with Me
+### 📍 SmartAttend – Location Based Attendance  
+**Tech Stack:** MERN Stack, Geolocation API  
+🌐 [Live Demo](https://attendence-system-frontend.onrender.com/)  
+📊 Live geolocation-based employee attendance system with Emp ID verification & admin analytics
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/shailendra-pathak-51a194258/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/PathakShailendra" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
+---
+
+### 📞 ChatConnect – Real-Time Chat & Video App  
+**Tech Stack:** Node.js, Express, Socket.IO, WebRTC, EJS  
+🌐 [Live Demo](https://omegalapp.onrender.com/)  
+💬 Real-time messaging & video call app with WebSocket and peer-to-peer communication
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PathakShailendra&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PathakShailendra&layout=compact&theme=tokyonight" width="49%" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Connect With Me
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pathakshailendra&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pathakshailendra&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="center">
+  <a href="mailto:pathakharsh813@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shailendra-pathak-51a194258/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/PathakShailendra"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-<h4 align="center">Always open to collaborating on exciting ideas & projects! Let's connect ✨</h4>
+<h4 align="center">✨ Let’s build the future together – One project at a time! 🚀</h4>
