@@ -1,36 +1,221 @@
-<div align="center">👨‍💻 SHAILENDRA PATHAK</div>
-<div align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Developer;MERN+Wizard;DSA+Enthusiast;Problem+Solver" alt="Typing SVG" /></a> </div> <div align="center"> <a href="https://github.com/PathakShailendra"> <img src="https://komarev.com/ghpvc/?username=PathakShailendra&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" /> </a> <a href="https://github.com/PathakShailendra?tab=followers"> <img src="https://img.shields.io/github/followers/PathakShailendra?style=for-the-badge&color=blue" alt="followers" /> </a> </div> <div align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=PathakShailendra&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"> </div>
-<img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="30"> About Me
-🔧 Full Stack Developer specializing in MERN Stack
-📊 Data Structures enthusiast with 600+ problems solved on LeetCode & 100+ on GeeksforGeeks
-🌐 Focused on Backend Development with Node.js & Express
-🛠️ Constantly building & shipping real-world projects
-✨ Finalist of Reimagine Hackathon by Sheryians Coding School
-🎯 Goal: Creating scalable, efficient web solutions that solve real problems
-📬 Reach me at: pathakharsh813@gmail.com
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack & Tools
-💻 Languages
-<p> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="50" height="50"/> </a> <a href="https://isocpp.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=cpp" alt="c++" width="50" height="50"/> </a> </p>
-🎨 Frontend
-<p> <a href="https://reactjs.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="50" height="50"/> </a> <a href="https://redux.js.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="50" height="50"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://skillicons.dev/icons?i=html" alt="html" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://skillicons.dev/icons?i=css" alt="css" width="50" height="50"/> </a> </p>
-⚙️ Backend & Database
-<p> <a href="https://nodejs.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="50" height="50"/> </a> <a href="https://expressjs.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="50" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="50" height="50"/> </a> <a href="https://jwt.io/" target="_blank"> <img src="https://skillicons.dev/icons?i=jwt" alt="jwt" width="50" height="50"/> </a> </p>
-🛠️ DevOps & Tools
-<p> <a href="https://git-scm.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/> </a> <a href="https://github.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=github" alt="github" width="50" height="50"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="50" height="50"/> </a> <a href="https://www.postman.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="50" height="50"/> </a> <a href="https://vercel.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="50" height="50"/> </a> </p>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Education
-<div align="left"> <img width="30" src="https://img.icons8.com/color/48/000000/graduation-cap.png"/> <b>Lakshmi Narain College of Technology and Science, Bhopal</b><br> B.Tech in Computer Science & Engineering (2022–2026) | CGPA: <b>8.39</b> </div> <br> <div align="left"> <img width="30" src="https://img.icons8.com/color/48/000000/school.png"/> <b>St. Mary's Convent Sr. Secondary School, Bankhedi</b><br> Class XII – <b>91%</b> | Class X – <b>95%</b> </div>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Achievements & Coding Stats
-<div align="left"> <!-- Dynamic LeetCode Stats --> <a href="https://leetcode.com/pathakshailendra/"> <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=PathakShailendra&repo=leetcode-stats&theme=tokyonight" /> </a>
-🏆 600+ problems solved on LeetCode & 100+ on GeeksforGeeks
-🔥 200-Day LeetCode Streak Badge
-🥇 Hackathon Finalist at Reimagine 2024
-💡 Participated in Smart India Hackathon twice
-🚀 Built 15+ Projects including full-stack applications
-</div> <br clear="right"/>
-<img src="https://media.giphy.com/media/f9Auu2zwYo1XGTsSPn/giphy.gif" width="30"> Featured Projects
-<div align="center"> <!-- Project 1 --> <div style="display: inline-block; width: 48%; margin-right: 2%; vertical-align: top;"> <h3>🛒 GoBite – Grocery Delivery System</h3> <div style="box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 10px; overflow: hidden; margin-bottom: 15px;"> <a href="https://gobite-frontend.onrender.com/" target="_blank"> <img src="https://cdn.sanity.io/images/ordgikwe/production/11a11baace63c5fcb43b3e0a9c0994e07834133a-1200x600.png" width="100%" alt="GoBite Project"/> </a> </div> <div style="padding: 0 10px;"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <p>Scalable grocery delivery app with authentication, payment integration, seller dashboard & cart system</p> <div style="display: flex; justify-content: space-between; margin-top: 10px;"> <a href="https://gobite-frontend.onrender.com/" target="_blank"> <img src="https://img.shields.io/badge/Live Demo-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/> </a> <a href="https://github.com/PathakShailendra/GoBite" target="_blank"> <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Repo"/> </a> </div> </div> </div> <!-- Project 2 --> <div style="display: inline-block; width: 48%; vertical-align: top;"> <h3>📍 SmartAttend – Location Based Attendance</h3> <div style="box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 10px; overflow: hidden; margin-bottom: 15px;"> <a href="https://attendence-system-frontend.onrender.com/" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:1358/1*C6wNr4Hm5EYlAL7J-waY8g.png" width="100%" alt="SmartAttend Project"/> </a> </div> <div style="padding: 0 10px;"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Geolocation-FF7139?style=for-the-badge&logo=mozilla&logoColor=white" alt="Geolocation"/> <p>Live geolocation-based employee attendance system with ID verification & admin analytics</p> <div style="display: flex; justify-content: space-between; margin-top: 10px;"> <a href="https://attendence-system-frontend.onrender.com/" target="_blank"> <img src="https://img.shields.io/badge/Live Demo-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/> </a> <a href="https://github.com/PathakShailendra/SmartAttend" target="_blank"> <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Repo"/> </a> </div> </div> </div> <!-- Project 3 --> <div style="display: inline-block; width: 48%; margin-right: 2%; vertical-align: top; margin-top: 20px;"> <h3>📞 ChatConnect – Real-Time Chat & Video App</h3> <div style="box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 10px; overflow: hidden; margin-bottom: 15px;"> <a href="https://omegalapp.onrender.com/" target="_blank"> <img src="https://devfolio.co/blog/content/images/size/w2000/2023/03/Devfolio-Blog-Cover-Image-Hackathon-Project-Ideas-Chat-Apps.png" width="100%" alt="ChatConnect Project"/> </a> </div> <div style="padding: 0 10px;"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO"/> <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/> <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS"/> <p>Real-time messaging & video call app with WebSocket and peer-to-peer communication</p> <div style="display: flex; justify-content: space-between; margin-top: 10px;"> <a href="https://omegalapp.onrender.com/" target="_blank"> <img src="https://img.shields.io/badge/Live Demo-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/> </a> <a href="https://github.com/PathakShailendra/ChatConnect" target="_blank"> <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Repo"/> </a> </div> </div> </div> <!-- Project 4 / More Projects --> <div style="display: inline-block; width: 48%; vertical-align: top; margin-top: 20px;"> <h3>🌟 More Projects Coming Soon!</h3> <div style="box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 10px; overflow: hidden; margin-bottom: 15px;"> <a href="https://github.com/PathakShailendra?tab=repositories" target="_blank"> <img src="https://img.freepik.com/free-vector/website-development-banner_33099-1687.jpg" width="100%" alt="Coming Soon Projects"/> </a> </div> <div style="padding: 0 10px;"> <img src="https://img.shields.io/badge/Future-FF6C37?style=for-the-badge&logo=futuristic&logoColor=white" alt="Future"/> <img src="https://img.shields.io/badge/Innovative-512BD4?style=for-the-badge&logo=innovation&logoColor=white" alt="Innovative"/> <img src="https://img.shields.io/badge/Projects-FCC624?style=for-the-badge&logo=projects&logoColor=black" alt="Projects"/> <p>Check out my other projects on GitHub - always building something new!</p> <div style="display: flex; justify-content: center; margin-top: 10px;"> <a href="https://github.com/PathakShailendra?tab=repositories" target="_blank"> <img src="https://img.shields.io/badge/View All Projects-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Repos"/> </a> </div> </div> </div> </div>
-<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30"> GitHub Stats
-<div align="center"> <a href="https://github.com/PathakShailendra"> <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PathakShailendra&show_icons=true&theme=tokyonight&border_radius=7.6&count_private=true" alt="Shailendra's Stats"/> </a> <a href="https://github.com/PathakShailendra"> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PathakShailendra&theme=tokyonight&border_radius=7.6&date_format=M%20j%5B%2C%20Y%5D" alt="Shailendra's Streak"/> </a> </div> <br> <div align="center"> <a href="https://github.com/PathakShailendra"> <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PathakShailendra&layout=compact&theme=tokyonight&border_radius=7.6&langs_count=6" alt="Top Languages"/> </a> <a href="https://github.com/PathakShailendra"> <img width="49%" src="https://github-profile-trophy.vercel.app/?username=PathakShailendra&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Trophy Stats"/> </a> </div>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
-<div align="center"> <a href="mailto:pathakharsh813@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/shailendra-pathak-51a194258/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/PathakShailendra"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://leetcode.com/pathakshailendra/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/> </a> </div> <div align="center"> <img height="120" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/> <h3>✨ Let's build the future together – One project at a time! 🚀</h3> </div>
+<div align="center">
+  <h1>SHAILENDRA PATHAK</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Developer;MERN+Wizard;DSA+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/PathakShailendra">
+    <img src="https://komarev.com/ghpvc/?username=PathakShailendra&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  </a>
+  <a href="https://github.com/PathakShailendra?tab=followers">
+    <img src="https://img.shields.io/github/followers/PathakShailendra?style=for-the-badge&color=blue&label=Followers" alt="followers"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shailendra-pathak-51a194258/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/pathakshailendra/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="mailto:pathakharsh813@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Full Stack Developer specializing in the **MERN stack** with a strong focus on building efficient and scalable backend systems. I have a deep passion for Data Structures and Algorithms, constantly honing my problem-solving skills.
+
+* 🚀 **Backend Focused:** Expertise in **Node.js** & **Express** for building robust APIs.
+* 💡 **DSA Enthusiast:** Solved **600+** problems on LeetCode and **100+** on GeeksforGeeks.
+* 🏆 **Hackathon Finalist:** Recognized as a finalist in the **Reimagine Hackathon 2024** by Sheryians Coding School.
+* 🎯 **My Goal:** To create high-impact, real-world solutions that are both scalable and user-friendly.
+* 🎓 **Currently:** Pursuing my **B.Tech in Computer Science** (2022-2026) at LNCT, Bhopal (CGPA: 8.39).
+
+---
+
+## 🛠️ My Tech Stack
+
+Here are the primary technologies and tools I work with, neatly organized by category.
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="15%"><strong>Languages</strong></td>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45"/></a>
+      <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="45" height="45"/></a>
+      <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="45" height="45"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Frontend</strong></td>
+    <td>
+      <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="React" width="45" height="45"/></a>
+      <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="45" height="45"/></a>
+      <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="45" height="45"/></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="45" height="45"/></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="45" height="45"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend</strong></td>
+    <td>
+      <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="45" height="45"/></a>
+      <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="45" height="45"/></a>
+      <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="45" height="45"/></a>
+      <a href="https://jwt.io/"><img src="https://skillicons.dev/icons?i=jwt" alt="JWT" width="45" height="45"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Databases</strong></td>
+    <td>
+      <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="45" height="45"/></a>
+      <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>DevOps & Tools</strong></td>
+    <td>
+      <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45"/></a>
+      <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45"/></a>
+      <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="45" height="45"/></a>
+      <a href="https://kafka.apache.org/"><img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" width="45" height="45"/></a>
+      <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="45" height="45"/></a>
+      <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="45" height="45"/></a>
+      <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="45" height="45"/></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+Here are some of the key projects I've built.
+
+<table align="center" width="100%" cellspacing="0" cellpadding="10">
+  <tr>
+    <td width="48%" valign="top" style="border: 1px solid #333; border-radius: 10px; padding: 15px;">
+      <h3 align="center">🛒 GoBite – Grocery Delivery System</h3>
+      <a href="https://gobite-frontend.onrender.com/" target="_blank">
+        <img src="https://cdn.sanity.io/images/ordgikwe/production/11a11baace63c5fcb43b3e0a9c0994e07834133a-1200x600.png" width="100%" alt="GoBite Project"/>
+      </a>
+      <p>A scalable grocery delivery app with JWT authentication, payment integration (Stripe), a seller dashboard, and a complete cart system.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      </p>
+      <p align="center">
+        <a href="https://gobite-frontend.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+        <a href="https://github.com/PathakShailendra/GoBite" target="_blank"><img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Repo"/></a>
+      </p>
+    </td>
+    
+    <td width="48%" valign="top" style="border: 1px solid #333; border-radius: 10px; padding: 15px;">
+      <h3 align="center">📍 SmartAttend – Location Based Attendance</h3>
+      <a href="https://attendence-system-frontend.onrender.com/" target="_blank">
+        <img src="https://miro.medium.com/v2/resize:fit:1358/1*C6wNr4Hm5EYlAL7J-waY8g.png" width="100%" alt="SmartAttend Project"/>
+      </a>
+      <p>A live geolocation-based employee attendance system. Features include ID verification, real-time location tracking, and an admin analytics dashboard.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+        <img src="https://img.shields.io/badge/Geolocation-FF7139?style=for-the-badge" alt="Geolocation"/>
+      </p>
+      <p align="center">
+        <a href="https://attendence-system-frontend.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+        <a href="https://github.com/PathakShailendra/SmartAttend" target="_blank"><img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Repo"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="48%" valign="top" style="border: 1px solid #333; border-radius: 10px; padding: 15px;">
+      <h3 align="center">📞 ChatConnect – Real-Time Chat & Video</h3>
+      <a href="https://omegalapp.onrender.com/" target="_blank">
+        <img src="https://devfolio.co/blog/content/images/size/w2000/2023/03/Devfolio-Blog-Cover-Image-Hackathon-Project-Ideas-Chat-Apps.png" width="100%" alt="ChatConnect Project"/>
+      </a>
+      <p>A real-time messaging and video call application built with WebSockets (Socket.IO) and peer-to-peer communication (WebRTC).</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO"/>
+        <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/>
+        <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS"/>
+      </p>
+      <p align="center">
+        <a href="https://omegalapp.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+        <a href="https://github.com/PathakShailendra/ChatConnect" target="_blank"><img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Repo"/></a>
+      </p>
+    </td>
+    
+    <td width="48%" valign="top" style="border: 1px solid #333; border-radius: 10px; padding: 15px;">
+      <h3 align="center">🌟 More Projects</h3>
+      <a href="https://github.com/PathakShailendra?tab=repositories" target="_blank">
+        <img src="https://img.freepik.com/free-vector/website-development-banner_33099-1687.jpg" width="100%" alt="More Projects"/>
+      </a>
+      <p>I'm always building something new! Check out all my repositories on GitHub to see my other projects, including smaller utilities and DSA solutions.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Future-FF6C37?style=for-the-badge" alt="Future"/>
+        <img src="https://img.shields.io/badge/Innovative-512BD4?style=for-the-badge" alt="Innovative"/>
+        <img src="https://img.shields.io/badge/Projects-FCC624?style=for-the-badge" alt="Projects"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/PathakShailendra?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/View_All_Projects-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Repos"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats & Trophies
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/PathakShailendra">
+        <img width="98%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PathakShailendra&show_icons=true&theme=tokyonight&border_radius=7.6&count_private=true" alt="Shailendra's Stats"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/PathakShailendra">
+        <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=PathakShailendra&theme=tokyonight&border_radius=7.6&date_format=M%20j%5B%2C%20Y%5D" alt="Shailendra's Streak"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/PathakShailendra">
+        <img width="98%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PathakShailendra&layout=compact&theme=tokyonight&border_radius=7.6&langs_count=6" alt="Top Languages"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/PathakShailendra">
+        <img width="98%" src="https://github-profile-trophy.vercel.app/?username=PathakShailendra&theme=tokyonight&column=6&margin-w=10&margin-h=10" alt="Trophy Stats"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎓 Education
+
+### B.Tech in Computer Science & Engineering
+* **Institution:** Lakshmi Narain College of Technology and Science, Bhopal
+* **Duration:** 2022 – 2026
+* **CGPA:** 8.48
+
+### Higher & Secondary School
+* **Institution:** St. Mary's Convent Sr. Secondary School, Bankhedi
+* **Class XII:** 91% | **Class X:** 95%
+
+<br>
+<div align="center">
+  <h3>✨ Let's connect and build the future together – One project at a time! 🚀</h3>
+</div>
